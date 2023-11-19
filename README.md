@@ -1,4 +1,3 @@
-# Coding-World-Cup-Finale-2023
 # Coding World Cup Finale 2023 - My Solutions
 
 ## 🏆 Introduction
